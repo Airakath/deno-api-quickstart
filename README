@@ -1,0 +1,5 @@
+// extention VS Code
+https://marketplace.visualstudio.com/items?itemName=axetroy.vscode-deno
+
+// run project
+deno run --allow-net app.ts
